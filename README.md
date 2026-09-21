@@ -673,3 +673,6 @@ Streamlit
 ReportLab
 Joblib
 ```
+## Git & GitHub Learning
+
+This project is also being used to learn Git and GitHub workflows.
