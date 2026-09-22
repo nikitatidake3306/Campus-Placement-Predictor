@@ -676,3 +676,6 @@ Joblib
 ## Git & GitHub Learning
 
 This project is also being used to learn Git and GitHub workflows.
+## Dashboard Feature
+
+Dashboard development is being tested on a separate Git branch.
